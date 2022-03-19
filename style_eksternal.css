@@ -1,10 +1,10 @@
 nav {
-    background: #20A759;
-    color:#fff;
+    background: #8ea720;
+    color:rgb(194, 223, 90);
     padding: 10px;
 }
 nav a {
-    color: #fff;
+    color: rgb(180, 21, 141);
     text-decoration: none;
     padding:10px 20px;
 }
@@ -14,7 +14,7 @@ nav a:hover {
 }
 /* ID Selector */
 #intro {
-    background: #418fb1;
+    background: #57b141;
     border: 1px solid #099249;
     min-height: 100px;
     padding: 10px;
@@ -22,17 +22,17 @@ nav a:hover {
     #intro h1 {
     text-align: left;
     border: 0;
-    color: #fff;
+    color: rgb(50, 23, 201);
     }
     /* Class Selector */
     .button {
     padding: 15px 20px;
-    background: #bebcbd;
-    color: #fff;
+    background: #df5499;
+    color: rgb(42, 11, 114);
     display: inline-block;
     margin: 10px;
     text-decoration: none;
     }
     .btn-primary {
-    background: #E42A42;
+    background: #36bddf;
     }
