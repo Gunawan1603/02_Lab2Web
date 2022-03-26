@@ -1,5 +1,5 @@
 # 02_Lab2Web
-TUGAS PERTEMUAN 4
+TUGAS PERTEMUAN 3
 
 PEMROGRAMAN WEB
 
@@ -112,7 +112,8 @@ penjelasannya!
 >**Jawab:**
 >Perbedaaannya jika hanya h1{} maka akan merubah semua yang ada didalam elemen h1, sedangkan #intro h1{} hanya akan merubah yang memiliki tag intro.
 3. Apabila ada deklarasi CSS secara internal, lalu ditambahkan CSS eksternal dan inline CSS pada
-elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan
+elemen yang sama. Deklarasi manakah yang akan ditampilkan pada browser? Berikan penjelasan dan contohnya!
+
 >**Jawab:**
 >jika ketiga CSS merubah elemen yang sama maka deklarasi tersebut akan mengikuti aturan prioritas dimana prioritas CSS nya seperti ini:
 >1. inline CSS
@@ -141,7 +142,7 @@ Disitu bisa dilihat terdapat 2 css yang merujuk ke elemen yang sama tapi 1 meruj
 
 >Berikut tampilan Pada Browser :
 >![02_Lab2Web](Gambar/19.Tampilan_Browser_id_class_css.jpg)<br>
->Text **"3. GUNAWAN TUGAS 2 PEMROGRAMAN WEB"** tersebut mengikuti css selector id daripada selector class dikarenakan id lebih spesifik daripada class.
+>Text **"3. GUNAWAN TUGAS 2 PEMROGRAMAN WEB"** tersebut mengikuti css **selector id** dari pada **selector class** dikarenakan **id lebih spesifik daripada class**.
 
 Cukup sekian Penjelasan dari saya.
 
